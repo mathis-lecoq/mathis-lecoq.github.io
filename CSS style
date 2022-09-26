@@ -1,0 +1,35 @@
+/*
+selecteur {
+    propriété : valeur;
+
+}
+*/
+
+body{
+        background: rgb(255, 255, 255);
+    font-family: sans-serif;
+    }
+
+
+    p, a{
+        color: rgb(91, 72, 56)
+    }
+
+    .intro{
+        font-size: 73px;
+    }
+    .wrap{
+        background: rgb(255, 255, 255)
+        
+    }
+
+    .wrap{
+        padding: 120px
+        
+    
+    }
+    .wrap{
+        margin: 30px 90px 30px 70px
+    
+    }
+
